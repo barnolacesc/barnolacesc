@@ -26,7 +26,7 @@ $ tree -L 1 ~/projects/
 ### Stack
 
 ```text
-Cloud & Infra   :: AWS (SAA) · Terraform · K3s · Traefik · ArgoCD · Sealed Secrets
+Cloud & Infra   :: AWS (SAA 😎) · Terraform · K3s · Traefik · ArgoCD · Sealed Secrets
 AI & Tooling    :: Claude Code · Cursor · Gemini CLI · Anthropic API · Ollama · RAG
 Languages       :: Python · Bash · Go · TypeScript · Lua · SQL · HCL
 Observability   :: Prometheus · Grafana · Loki · Alertmanager · OpenObserve

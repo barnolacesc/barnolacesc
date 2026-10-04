@@ -1,15 +1,15 @@
 ```text
   ____ _____ ____   ____    cesc@baremetal
  / ___| ____/ ___| / ___|   --------------
-| |   |  _| \___ \| |       OS       :: Proxmox VE · K3s Bare-Metal
-| |___| |___ ___) | |___    Uptime   :: 99.98% (except when it's DNS)
- \____|_____|____/ \____|   Hardware :: 42-key split Corne · Pi Cluster · Custom Rack
-                            Editor   :: Neovim / Vim motions everywhere
-                            Shell    :: zsh + tmux + Ghostty
-                            Daemon   :: Jarvis (autonomous agent @ K3s StatefulSet)
+| |   |  _| \___ \| |       OS        :: Proxmox VE · K3s Bare-Metal
+| |___| |___ ___) | |___    Uptime    :: 99.98% (except when it's DNS)
+ \____|_____|____/ \____|   Keyboards :: Corne (work) · ZSA Moonlander (home)
+                            Editor    :: Neovim / Vim motions everywhere
+                            Shell     :: zsh + tmux + Ghostty
+                            Daemon    :: openclaw (cybernetic butler @ K3s StatefulSet)
 ```
 
-> *"Prompting AI agents to build things (and occasionally break my homelab), navigated exclusively with Vim motions on a 42-key split."*
+> *"Prompting openclaw and AI agents to run (and occasionally break) my homelab, navigated with Vim motions on split keyboards."*
 
 ### Projects
 
@@ -17,7 +17,7 @@
 $ tree -L 1 ~/projects/
 .
 ├── 🤖 dockyard/           # Agent-first macOS workspace (Swift + Ghostty + tmux + Monaco)
-├── 🧠 jarvis/             # Self-hosted agent: Telegram voice, Obsidian second-brain, HA
+├── 🦞 openclaw/           # Cybernetic butler: Telegram voice, Obsidian second-brain, HA
 ├── 💳 personal-finances/  # Expense engine with real bank sync (OAuth2 + RS256 JWT on Pi)
 ├── 💓 uptime-kuma-client/ # Zero-dependency push heartbeat agent in pure Bash
 └── 🚀 gha-runner/         # Containerized ARM64 GitHub Actions runner on Raspberry Pi

@@ -4,12 +4,12 @@
 | |   |  _| \___ \| |       OS       :: Proxmox VE · K3s Bare-Metal
 | |___| |___ ___) | |___    Uptime   :: 99.98% (except when it's DNS)
  \____|_____|____/ \____|   Hardware :: 42-key split Corne · Pi Cluster · Custom Rack
+                            Editor   :: Neovim / Vim motions everywhere
                             Shell    :: zsh + tmux + Ghostty
-                            Role     :: DevOps @ Fundcraft · AI Tinkerer
                             Daemon   :: Jarvis (autonomous agent @ K3s StatefulSet)
 ```
 
-> *"I believe the best way to understand a technology is to operate it in production, even if that production is your basement."*
+> *"Prompting AI agents to build things (and occasionally break my homelab), navigated exclusively with Vim motions on a 42-key split."*
 
 ### ⚡ Active Workstreams
 
@@ -35,7 +35,7 @@ Observability   :: Prometheus · Grafana · Loki · Alertmanager · OpenObserve
 ---
 
 <p align="center">
-  <code>curl -sL <a href="https://barnola.net">barnola.net</a></code> &nbsp;·&nbsp;
+  <code>curl -sL <a href="https://francesc.barnola.net">francesc.barnola.net</a></code> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/fbarnola">linkedin/fbarnola</a> &nbsp;·&nbsp;
   <code>francesc@barnola.cat</code>
 </p>

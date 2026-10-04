@@ -11,10 +11,10 @@
 
 > *"Prompting AI agents to build things (and occasionally break my homelab), navigated exclusively with Vim motions on a 42-key split."*
 
-### ⚡ Active Workstreams
+### Projects
 
 ```bash
-$ tree -L 1 ~/built-in-anger/
+$ tree -L 1 ~/projects/
 .
 ├── 🤖 dockyard/           # Agent-first macOS workspace (Swift + Ghostty + tmux + Monaco)
 ├── 🧠 jarvis/             # Self-hosted agent: Telegram voice, Obsidian second-brain, HA
@@ -23,7 +23,7 @@ $ tree -L 1 ~/built-in-anger/
 └── 🚀 gha-runner/         # Containerized ARM64 GitHub Actions runner on Raspberry Pi
 ```
 
-### 🛰️ The Matrix
+### Stack
 
 ```text
 Cloud & Infra   :: AWS (SAA) · Terraform · K3s · Traefik · ArgoCD · Sealed Secrets

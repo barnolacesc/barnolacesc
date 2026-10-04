@@ -1,48 +1,41 @@
-# Francesc Barnola
+```text
+  ____ _____ ____   ____    cesc@baremetal
+ / ___| ____/ ___| / ___|   --------------
+| |   |  _| \___ \| |       OS       :: Proxmox VE · K3s Bare-Metal
+| |___| |___ ___) | |___    Uptime   :: 99.98% (except when it's DNS)
+ \____|_____|____/ \____|   Hardware :: 42-key split Corne · Pi Cluster · Custom Rack
+                            Shell    :: zsh + tmux + Ghostty
+                            Role     :: DevOps @ Fundcraft · AI Tinkerer
+                            Daemon   :: Jarvis (autonomous agent @ K3s StatefulSet)
+```
 
-> DevOps Engineer & Cloud Architect. Operating regulated cloud infrastructure by day, building agentic tooling and bare-metal homelabs by night.
+> *"I believe the best way to understand a technology is to operate it in production, even if that production is your basement."*
 
-[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-FF9900?logo=amazon-aws&logoColor=white&style=flat-square)](https://francesc.barnola.net)
-[![Portfolio](https://img.shields.io/badge/Portfolio-barnola.net-d97706?style=flat-square)](https://barnola.net)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fbarnola-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/fbarnola)
+### ⚡ Active Workstreams
 
----
+```bash
+$ tree -L 1 ~/built-in-anger/
+.
+├── 🤖 dockyard/           # Agent-first macOS workspace (Swift + Ghostty + tmux + Monaco)
+├── 🧠 jarvis/             # Self-hosted agent: Telegram voice, Obsidian second-brain, HA
+├── 💳 personal-finances/  # Expense engine with real bank sync (OAuth2 + RS256 JWT on Pi)
+├── 💓 uptime-kuma-client/ # Zero-dependency push heartbeat agent in pure Bash
+└── 🚀 gha-runner/         # Containerized ARM64 GitHub Actions runner on Raspberry Pi
+```
 
-### ⚡ What I'm Focused On
-
-- 💼 **Cloud & Infra:** DevOps Engineer at [Fundcraft](https://www.fundcraft.lu/) operating a regulated fintech platform on AWS & Kubernetes.
-- 🤖 **Agentic Engineering:** Building inside the agent loop—not observing it. Evolving **[Dockyard](https://github.com/barnolacesc/dockyard)** (an agent-first native macOS IDE) and **Jarvis** (multi-model K3s-resident agent with long-term memory & proactive heartbeats).
-- 🏠 **Bare-Metal Homelab:** Operating a K3s cluster on Proxmox VE + TrueNAS with 30+ self-hosted services, automated GitOps, and a complete Prometheus/Loki/Grafana observability stack.
-- 💡 **Philosophy:** *"I believe the best way to understand a technology is to operate it in production, even if that production is your basement."*
-
----
-
-### 🛠️ Systems & Tooling
+### 🛰️ The Matrix
 
 ```text
-Cloud & IaC     :: AWS (SAA) · GCP · Terraform · Ansible · Helm · Kustomize · Cloudflare
-Orchestration   :: Kubernetes · K3s · Docker · Traefik · cert-manager · ArgoCD · Sealed Secrets
-AI & Agents     :: Claude Code · Cursor · Gemini CLI · Anthropic API · Ollama · n8n · RAG
-Observability   :: Prometheus · Grafana · Loki · Alertmanager · OpenObserve
+Cloud & Infra   :: AWS (SAA) · Terraform · K3s · Traefik · ArgoCD · Sealed Secrets
+AI & Tooling    :: Claude Code · Cursor · Gemini CLI · Anthropic API · Ollama · RAG
 Languages       :: Python · Bash · Go · TypeScript · Lua · SQL · HCL
+Observability   :: Prometheus · Grafana · Loki · Alertmanager · OpenObserve
 ```
 
 ---
 
-### 📦 Selected Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Dockyard](https://github.com/barnolacesc/dockyard)** | Agent-first native workspace. Worktree-per-task, pane-isolated coding agents, terminal & browser in one window. | `Swift` `Ghostty` `tmux` `Monaco` |
-| **[Personal Finances](https://github.com/barnolacesc/personal-finances)** | Full-stack financial engine with live bank sync via Enable Banking (OAuth2 + RS256 JWT). | `Python` `Flask` `Docker` `RPi` |
-| **[Uptime Kuma Client](https://github.com/barnolacesc/uptime-kuma-client)** | Zero-dependency push heartbeat agent in pure Bash. Runs anywhere from ARMv6 Pis to K8s CronJobs. | `Bash` `systemd` `Docker` |
-| **[GHA Self-hosted Runner](https://github.com/barnolacesc/gha-selfhosted-runner)** | Containerized GitHub Actions runner for ARM64 Raspberry Pi with auto-registration lifecycle. | `Docker` `GitHub Actions` `ARM64` |
-| **[Dotfiles](https://github.com/barnolacesc/dotfiles)** | Cross-platform, reproducible workstation bootstrap (macOS/Debian/Ubuntu) with 20+ git shortcuts. | `Zsh` `Bash` `macOS` `Linux` |
-
----
-
-### 📬 Connect
-
-- 🌐 **Web:** [barnola.net](https://barnola.net) · [francesc.barnola.net](https://francesc.barnola.net)
-- 💼 **LinkedIn:** [/in/fbarnola](https://linkedin.com/in/fbarnola)
-- ✉️ **Email:** `francesc@barnola.cat`
+<p align="center">
+  <code>curl -sL <a href="https://barnola.net">barnola.net</a></code> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/fbarnola">linkedin/fbarnola</a> &nbsp;·&nbsp;
+  <code>francesc@barnola.cat</code>
+</p>

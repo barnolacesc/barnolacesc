@@ -4,7 +4,7 @@
 | |   |  _| \___ \| |       OS        :: Proxmox VE · K3s Bare-Metal
 | |___| |___ ___) | |___    Uptime    :: 99.98% (except when it's DNS)
  \____|_____|____/ \____|   Keyboards :: Corne (work) · ZSA Moonlander (home)
-                            Editor    :: Neovim / Vim motions everywhere
+                            Editor    :: Dockyard (my own thing) + Vim motions
                             Shell     :: zsh + tmux + Ghostty
                             Daemon    :: openclaw (cybernetic butler @ K3s StatefulSet)
 ```
